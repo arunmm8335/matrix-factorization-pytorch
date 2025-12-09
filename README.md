@@ -70,7 +70,7 @@ An implementation of **SASRec (Self-Attentive Sequential Recommendation)** using
 
 ---
 
-## 🚀 How to Run
+##  How to Run
 
 1.  **Install Dependencies:**
     ```bash
@@ -95,7 +95,7 @@ An implementation of **SASRec (Self-Attentive Sequential Recommendation)** using
     python train.py
     ```
 
-## 📜 Citations
+##  Citations
 1.  Koren, Y., Bell, R., & Volinsky, C. (2009). Matrix Factorization Techniques for Recommender Systems. *Computer*, 42(8), 30-37.
 2.  He, X., Liao, L., Zhang, H., Nie, L., Hu, X., & Chua, T. S. (2017). Neural Collaborative Filtering. *WWW*.
 3.  Kang, W. C., & McAuley, J. (2018). Self-Attentive Sequential Recommendation. *ICDM*.
